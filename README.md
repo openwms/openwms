@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h3 align="center">My stats</h3>
 
 <p align="center">
