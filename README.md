@@ -1,5 +1,9 @@
 <h3 align="center">My stats</h3>
 
+<h3 align="center">
+  <i>"A commit a day, keeps the doctor away"</i>
+</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=openwms&layout=compact" width="400" alt="langs" />
     <br />
